@@ -16,7 +16,7 @@ else if ((alphabet >= 'a' && alphabet <= 'z') || (alphabet >= 'A' && alphabet <=
     }    
 else
     {
-        printf("Invaid input. Please enter a alphabet.\n");
+        printf("Invaid input. Please enter a alphabet\n");
     }
 return 0;
 }
